@@ -3,10 +3,12 @@ date = "2015-08-22"
 title = "About"
 +++
 
-_With this theme, it is possible to add small sections that only contains one page like this. It will automatically appears in the header, at the end._
+Abidjan R users is the R user group bringing together passionate of R and data in Abidjan, Ivory Coast.  
 
-Along with [Ford Prefect](https://en.wikipedia.org/wiki/Ford_Prefect_\(character\)), Dent barely escapes the Earth's destruction as it is demolished to make way for a *hyperspace bypass*. Arthur spends the next several years, still wearing his dressing gown, helplessly launched from crisis to crisis while trying to straighten out his lifestyle.  
- 
-> He rather enjoys tea, but seems to have trouble obtaining it in the far reaches of the galaxy.  
- 
-In time, he learns how to fly and carves a niche for himself as a sandwich-maker.
+He was created in 2015 and hopes for 2018 to hold a workshop, a meeting every month.  
+
+Abidjan R users hold a _branch_ in Yamoussoukro at the INPHB also called as _INPHB R users_ for impulsing use of R.
+
+Abidjan R users gathers at this date 30 R lovers.
+
+The founder and principal organizer is [Anicet Ebou](https://aebou.rbind.io).
